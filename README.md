@@ -1,4 +1,4 @@
-# My queer Date Starter Kit
+# My queer Date Starter Kit 
 
 We tryna `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 
